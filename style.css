@@ -1,0 +1,147 @@
+div.container{
+    width: 1800px;
+    min-height: 1800px;
+    margin: 0px auto;
+    padding: 10px; 
+}
+    div.container div.topNum{
+        display: block;
+        margin-left: 96px;
+        padding: 0px;
+    }
+        div.container div.topNum p{
+            margin: 40px 32px 35px 10px;
+            display: inline-block;
+            color: red;
+        }
+        div.container div.topNum p.space{
+            margin-left: 20px;
+        }
+    div.container div.groupPeriod{
+        margin-top: -90px;
+        width: 45px;
+        display: inline-block;
+        vertical-align: top;
+        position: absolute;
+    }   
+        div.container div.groupPeriod p{
+            color: red;
+        }   
+    div.container p{
+        margin: 40px;
+        color: blue;
+    }
+        div.container div.groupOne{
+            margin-left: 40px;
+            margin-top: -40px;
+            width: 45px;
+            display: inline-block;
+            vertical-align: top;
+        } 
+            div.container div.groupOne p{
+                font-size: 10px;
+                width: 40px;
+                background-color: lightskyblue;
+                border: 1px solid black;
+                text-align: center;
+                margin-bottom: -34px;
+            } 
+            div.container span{
+                font-weight: bold;
+                font-size: 25px;
+                display: block;
+            } 
+        div.container div.groupTwo{
+            margin-left: 5px;
+            margin-top: 20px;
+            width: 45px;
+            display: inline-block;
+            vertical-align: top;
+        } 
+             div.groupTwo p{
+                font-size: 10px;
+                width: 40px;
+                background-color: lightskyblue;
+                border: 1px solid black;
+                text-align: center;
+                margin-bottom: -34px;
+            }
+    div.container div.heavyMetal{
+            margin-left: 44px;
+            margin-top: 176px;
+            width: 550px;
+            display: inline-block;
+        } 
+        div.heavyMetal p{
+            font-size: 10px;
+            width: 40px;
+            background-color: pink;
+            border: 1px solid black;
+            text-align: center;
+            display: inline-block;
+            margin: 3px -4px 3px 11px;
+        }
+    div.container div.gasGroup{
+        margin-left: -27px;
+        margin-top: 72px;
+        width: 290px;
+        display: inline-block;
+        vertical-align: top;
+    } 
+        div.gasGroup p{
+            font-size: 10px;
+            width: 42px;
+            background-color: yellow;
+            border: 1px solid black;
+            text-align: center;
+            display: inline-block;
+            margin: 3px -4px 3px 11px;
+        }
+        div.gasGroup span{
+            font-weight: bold;
+            font-size: 23px;
+            display: block;
+        }
+    div.container div.nobleGas{
+        margin-left: -19px;
+        margin-top: 15px;
+        width: 40px;
+        display: inline-block;
+        vertical-align: top;
+        } 
+        div.nobleGas p{
+            font-size: 10px;
+            width: 42px;
+            background-color: yellow;
+            border: 1px solid black;
+            text-align: center;
+            display: inline-block;
+            margin: 3px -4px 3px 11px;
+        }
+        div.nobleGas span{
+            font-weight: bold;
+            font-size: 23px;
+            display: block;
+        }
+    div.container div.lanthanoidsActinoids{
+        margin-left: 75px;
+        margin-top: 10px;
+        width: 1200px;
+        display: inline-block;
+    } 
+        div.lanthanoidsActinoids p{
+            font-size: 10px;
+            width: 40px;
+            background-color: green;
+            border: 1px solid black;
+            text-align: center;
+            display: inline-block;
+            margin: 3px -4px 3px 11px;
+        }
+        div.lanthanoidsActinoids label{
+            color: red;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: -16px;
+            margin-top: -30px;
+        }
